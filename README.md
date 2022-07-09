@@ -1,4 +1,4 @@
-# css-animation-card
+# Animation Card
 Animation created with pure CSS3 
 
 ### Clear animation
